@@ -1,3 +1,4 @@
+require("file-loader?name=[name].[ext]!./index.html");
 import "./styles/App.scss";
 import React from "react";
 import ReactDOM from "react-dom";

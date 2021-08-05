@@ -6,7 +6,8 @@
   "scripts": {
     "serve": "webpack serve --mode development",
     "build": "webpack --mode production",
-    "test": "jest"
+    "test": "jest",
+    "deploy": "firebase deploy"
   },
   "author": "partnadem",
   "license": "ISC",
