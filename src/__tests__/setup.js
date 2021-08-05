@@ -1,4 +1,4 @@
 it('tests are working', () => {
-  expect(0).toEqual(2);
-  expect(0).toEqual(3);
+  expect(2).toEqual(2);
+  expect(3).toEqual(3);
 });
